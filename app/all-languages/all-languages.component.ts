@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {Router} from '@angular/router-deprecated';
 import * as _ from 'lodash';
+import * as d3 from 'd3';
 
 import {githubService} from './../shared/github/github.service';
 import {ReposService} from './../shared/repos/repos.service'

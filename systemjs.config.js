@@ -8,7 +8,8 @@
         'angular2-in-memory-web-api': 'https://npmcdn.com/angular2-in-memory-web-api',
         '@angular':                   'https://npmcdn.com/@angular',
         'lodash':                     'https://npmcdn.com/lodash@4.12.0',
-        'marked':                     'https://npmcdn.com/marked@0.3.5'
+        'marked':                     'https://npmcdn.com/marked@0.3.5',
+        'd3':                         'https://npmcdn.com/d3@3.5.17'
     };
 
     // packages tells the System loader how to load when no filename and/or no extension
